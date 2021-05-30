@@ -1,0 +1,52 @@
+Steps to install pixel experience in poco f1
+
+Step - 1 : 
+        -       Download pixel experience file (https://download.pixelexperience.org/beryllium)
+        -       Download Disable force encryption file (https://androidfilehost.com/?fid=6006931924117915021)
+
+Step - 2 :
+        -       Reboot the phone in recovery mode.
+
+Step - 3 : 
+        -       Click on WIPE
+        -       Click on Advanced repair
+        -       Select these partitions
+                -       Dalvik / ART Cache
+                -       Cache
+                -       System
+                -       Vendor
+                -       Data
+        -       Click on swipe to Wipe
+
+Step - 4 : 
+        -       Back to home
+        -       Click on INSTALL
+        -       Select Pixel experience file
+        -       Swipe right
+
+Step - 5 : 
+        -       Back to home
+        -       Click on MOUNT
+        -       Select the following partitions
+                -       Cache
+                -       System
+                -       Vendor
+                -       Data
+        -       Back to home
+
+Step - 6 :
+        -       Click on INSTALL
+        -       Select Disable force encryption file
+        -       Swipe right
+        -       Back to home
+
+Step - 7 :
+        -       Click on Wipe
+        -       Click on FORMAT DATA 
+        -       Type "yes" in dialogue box
+        -       Back to home
+
+Step - 8 : 
+        -       Click on REBOOT
+        -       Select SYSTEM 
+
